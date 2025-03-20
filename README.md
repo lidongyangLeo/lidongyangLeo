@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi, I'm lidongyang！
+🚀 10 年开发经验，前端 + iOS 开发者  
+📫 联系我: [752860629@qq.com](752860629@qq.com) 
+
+
 
 <!--
 **lidongyangLeo/lidongyangLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
