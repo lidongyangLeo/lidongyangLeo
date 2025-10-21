@@ -4,7 +4,7 @@ I'm Ethan.
 <td width="50%" valign="top">
   <h3 align="left"> ❤ About Me </h3>
 
-- 💻 full-stack developer. Interested in [react](https://github.com/facebook/react) / [vuejs](https://github.com/vuejs) / [swift](https://github.com/swiftlang/swift)
+- 💻 Full-stack developer. Interested in [react](https://github.com/facebook/react) / [vuejs](https://github.com/vuejs) / [swift](https://github.com/swiftlang/swift)
 - 🌱 Keep Learning
 - 📫 Reach me: 752860629@qq.com
 - 💬 Ask me about everything
